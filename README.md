@@ -52,3 +52,19 @@
 
 ```text
 JavaScript • HTML • CSS • Debian Linux • Git
+```
+Philosophy
+
+Building technology to protect people, automate the future, and turn ideas into reality.
+
+Mission
+
+World's Future is an initiative dedicated to ethical cybersecurity, open source technology, and digital innovation for justice.
+
+<details> <summary><strong>Core Values</strong></summary>
+Ethics First
+Privacy and Security
+Open Collaboration
+Continuous Learning
+Technology for Good
+</details> <p align="center"> <strong>Build the Future.</strong> </p> ```
