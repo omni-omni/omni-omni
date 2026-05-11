@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://cdn.discordapp.com/emojis/1371806289943986327.gif"
+    alt="Wings"
+    width="120"
+  />
+</p>
 <h1 align="center">
   <span
     style="
