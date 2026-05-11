@@ -36,49 +36,16 @@
 
 ## Current Focus
 
-<table>
-<tr>
-<td width="24">
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='7' fill='%2358a6ff'/%3E%3C/svg%3E">
-</td>
-<td>World's Future</td>
-</tr>
-
-<tr>
-<td>
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 1l6 2v4c0 4-2.5 7-6 8-3.5-1-6-4-6-8V3l6-2z' fill='%237ee787'/%3E%3C/svg%3E">
-</td>
-<td>Ethical Cybersecurity</td>
-</tr>
-
-<tr>
-<td>
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='7' cy='7' r='4' fill='none' stroke='%23c9d1d9' stroke-width='2'/%3E%3Cpath d='M10.5 10.5L14 14' stroke='%23c9d1d9' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
-</td>
-<td>Open Source Intelligence (OSINT)</td>
-</tr>
-
-<tr>
-<td>
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 1l2 5h5l-4 3 2 6-5-3-5 3 2-6-4-3h5z' fill='%23d2a8ff'/%3E%3C/svg%3E">
-</td>
-<td>Artificial Intelligence</td>
-</tr>
-
-<tr>
-<td>
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 1v3M8 12v3M1 8h3M12 8h3M3 3l2 2M11 11l2 2M13 3l-2 2M5 11l-2 2' stroke='%23ffa657' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
-</td>
-<td>Automation</td>
-</tr>
-
-<tr>
-<td>
-<img width="16" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3 2h10v12H3z' fill='none' stroke='%23f0f6fc' stroke-width='2'/%3E%3Cpath d='M5 5h6M5 8h6M5 11h4' stroke='%23f0f6fc' stroke-width='1.5'/%3E%3C/svg%3E">
-</td>
-<td>Research</td>
-</tr>
-</table>
+<div align="center">
+<table><tr>
+<td align="center"><b>🌐</b><br><sub>World's Future</sub><br><sup>active project</sup></td>
+<td align="center"><b>🛡️</b><br><sub>Ethical Cybersecurity</sub><br><sup>studying</sup></td>
+<td align="center"><b>🔍</b><br><sub>OSINT</sub><br><sup>studying</sup></td>
+<td align="center"><b>🤖</b><br><sub>Artificial Intelligence</sub><br><sup>building</sup></td>
+<td align="center"><b>⚙️</b><br><sub>Automation</sub><br><sup>building</sup></td>
+<td align="center"><b>📖</b><br><sub>Research</sub><br><sup>ongoing</sup></td>
+</tr></table>
+</div>
 
 ## Tech Stack
 
