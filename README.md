@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Omnipotent</h1>
 
 <p align="center">
@@ -13,8 +12,6 @@
   <a href="https://omni-omni.github.io">Portfolio</a> •
   <a href="https://bloopsoxer-lgtm.github.io/worldsfuture">World's Future</a>
 </p>
-
----
 
 ## Current Focus
 
@@ -50,9 +47,7 @@ World's Future is an initiative dedicated to ethical cybersecurity, open source 
 
 </details>
 
----
-
 <p align="center">
   <strong>Build the future.</strong>
 </p>
-```
+
