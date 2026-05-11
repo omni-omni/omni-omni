@@ -42,9 +42,9 @@
 ## ⌨ &nbsp;Tech Stack
 
 ```text
-Languages   →   JavaScript  •  HTML  •  CSS  •  Python  •  C++
-Environment →   Debian Linux  •  Git  •  Node.js  •  Electron
-Security    →   OWASP Top 10  •  OSINT  •  Network Analysis
+Languages   →   JavaScript • HTML • CSS • Python • C++
+Environment →   Debian Linux • Git • Node.js • Electron
+Security    →   OSINT • Network Analysis • Ethical Hacking
 ```
 
 ---
