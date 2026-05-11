@@ -69,7 +69,7 @@ JavaScript • HTML • CSS • Debian Linux • Git
 
 ## Philosophy
 
-> Building technology to protect people, automate the future, and turn ideas into reality.
+> The future isn't something we enter. It's something we build.
 
 ## Mission
 
