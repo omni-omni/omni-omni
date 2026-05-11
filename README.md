@@ -1,5 +1,17 @@
-<h1 align="center">Omnipotent</h1>
-
+<h1 align="center">
+  <span
+    style="
+      color:#ffffff;
+      text-shadow:
+        0 0 6px #ffffff,
+        0 0 12px #ffffff,
+        0 0 24px #ffffff,
+        0 0 48px #ffffff;
+    "
+  >
+    ◈ Omnipotent
+  </span>
+</h1>
 <p align="center">
   Frontend Developer • Ethical Hacker • Open Source Builder
 </p>
