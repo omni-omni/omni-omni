@@ -37,12 +37,12 @@
 
 <div align="center">
 <table><tr>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◈</b><br><sub>World's Future</sub><br><sup>active&nbsp;project</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◆</b><br><sub>Ethical&nbsp;Cybersecurity</sub><br><sup>studying</sup>&nbsp;&nbsp;&nbsp;</td>
+<td align="center">&nbsp;&nbsp;&nbsp;<b>⬡</b><br><sub>World's Future</sub><br><sup>active&nbsp;project</sup>&nbsp;&nbsp;&nbsp;</td>
+<td align="center">&nbsp;&nbsp;&nbsp;<b>⎋</b><br><sub>Ethical&nbsp;Cybersecurity</sub><br><sup>studying</sup>&nbsp;&nbsp;&nbsp;</td>
 <td align="center">&nbsp;&nbsp;&nbsp;<b>◈</b><br><sub>OSINT</sub><br><sup>studying</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◆</b><br><sub>Artificial&nbsp;Intelligence</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◈</b><br><sub>Automation</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◆</b><br><sub>Research</sub><br><sup>ongoing</sup>&nbsp;&nbsp;&nbsp;</td>
+<td align="center">&nbsp;&nbsp;&nbsp;<b>⌘</b><br><sub>Artificial&nbsp;Intelligence</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
+<td align="center">&nbsp;&nbsp;&nbsp;<b>⛭</b><br><sub>Automation</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
+<td align="center">&nbsp;&nbsp;&nbsp;<b>⎙</b><br><sub>Research</sub><br><sup>ongoing</sup>&nbsp;&nbsp;&nbsp;</td>
 </tr></table>
 </div>
 
