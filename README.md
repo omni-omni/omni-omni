@@ -1,26 +1,11 @@
 <p align="center">
-  <img
-    src="https://cdn.discordapp.com/emojis/1371806289943986327.gif"
-    alt="Wings"
-    width="120"
-  />
+  <img src="https://cdn.discordapp.com/emojis/1371806289943986327.gif" width="100" alt="wings" />
 </p>
-<h1 align="center">
-  <span
-    style="
-      color:#ffffff;
-      text-shadow:
-        0 0 6px #ffffff,
-        0 0 12px #ffffff,
-        0 0 24px #ffffff,
-        0 0 48px #ffffff;
-    "
-  >
-    ◈ Omnipotent
-  </span>
-</h1>
+
+<h1 align="center">◈ &nbsp;Omnipotent</h1>
+
 <p align="center">
-  Frontend Developer • Ethical Hacker • Open Source Builder
+  <code>Frontend Developer</code> &nbsp;·&nbsp; <code>Ethical Hacker</code> &nbsp;·&nbsp; <code>Open Source Builder</code>
 </p>
 
 <p align="center">
@@ -28,49 +13,70 @@
 </p>
 
 <p align="center">
-  <a href="https://omni-omni.github.io">Portfolio</a> •
+  <a href="https://omni-omni.github.io">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://bloopsoxer-lgtm.github.io/worldsfuture">World's Future</a>
 </p>
 
+<br>
+
 ---
-## **Current Focus**
+
+## ⬡ &nbsp;Current Focus
 
 <div align="center">
-<table><tr>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>⬡</b><br><sub>World's Future</sub><br><sup>active&nbsp;project</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>⎋</b><br><sub>Ethical&nbsp;Cybersecurity</sub><br><sup>studying</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>◈</b><br><sub>OSINT</sub><br><sup>studying</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>⌘</b><br><sub>Artificial&nbsp;Intelligence</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>⛭</b><br><sub>Automation</sub><br><sup>building</sup>&nbsp;&nbsp;&nbsp;</td>
-<td align="center">&nbsp;&nbsp;&nbsp;<b>⎙</b><br><sub>Research</sub><br><sup>ongoing</sup>&nbsp;&nbsp;&nbsp;</td>
-</tr></table>
+
+| | Focus | Status |
+|:-:|:--|:--|
+| ⬡ | World's Future | `active project` |
+| ⎋ | Ethical Cybersecurity | `studying` |
+| ◈ | OSINT | `studying` |
+| ⌘ | Artificial Intelligence | `building` |
+| ⛭ | Automation | `building` |
+| ⎙ | Research | `ongoing` |
+
 </div>
 
-## Tech Stack
+---
+
+## ⌨ &nbsp;Tech Stack
 
 ```text
-JavaScript • HTML • CSS • Debian Linux • Git
-````
+Languages   →   JavaScript  •  HTML  •  CSS  •  Python  •  C++
+Environment →   Debian Linux  •  Git  •  Node.js  •  Electron
+Security    →   OWASP Top 10  •  OSINT  •  Network Analysis
+```
 
-## Philosophy
+---
 
-> The future isn't something we enter. It's something we build.
+## ∴ &nbsp;Philosophy
 
-## Mission
+> *The future isn't something we enter.*
+> *It's something we build.*
 
-World's Future is an initiative dedicated to ethical cybersecurity, open source technology, and digital innovation for justice.
+---
+
+## ⬡ &nbsp;Mission
+
+**World's Future** is an initiative dedicated to ethical cybersecurity,
+open source technology, and digital innovation for justice.
 
 <details>
-<summary><strong>Core Values</strong></summary>
+<summary>&nbsp;<strong>Core Values</strong></summary>
+<br>
 
-* Ethics First
-* Privacy and Security
-* Open Collaboration
-* Continuous Learning
-* Technology for Good
+```
+◈  Ethics First          —  technology must serve people, not exploit them
+◈  Privacy & Security    —  digital rights are human rights
+◈  Open Collaboration    —  knowledge grows when shared
+◈  Continuous Learning   —  the most dangerous tool is a curious mind
+◈  Technology for Good   —  build tools that empower, not surveil
+```
 
 </details>
 
+---
+
 <p align="center">
-  <strong>Build the Future.</strong>
+  <sub>◈ &nbsp; Build the Future. &nbsp; ◈</sub>
 </p>
