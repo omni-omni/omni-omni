@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://omni-omni.github.io">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://bloopsoxer-lgtm.github.io/worldsfuture">World's Future</a>
+  <a href="https://omni-omni.github.io/worldsfuture">World's Future</a>
 </p>
 
 <br>
