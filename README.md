@@ -42,7 +42,7 @@
 ## ⌨ &nbsp;Tech Stack
 
 ```text
-Languages   →   JavaScript   • HTML   • CSS     • Python • C++
+Languages   →   JavaScript   • HTML   • CSS     • Python
 Environment →   Debian Linux • Git    • Node.js • Electron
 Security    →   OSINT        • Network Analysis • Ethical Hacking
 ```
